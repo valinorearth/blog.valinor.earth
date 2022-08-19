@@ -1,5 +1,8 @@
 ---
-title: Contributing to Sustainable Development Goals
+layout: post
+title:  'Contributing to Sustainable Development Goals'
+image:  '/assets/2020/2020-sdg.jpg'
+tags:   [sdg, environment, sustainability]
 ---
 
 The world faces a few global and critical issues that adversely affect the international community and environment, possibly in a catastrophic way, including environmental issues, political crises, social issues, and economic crisis.

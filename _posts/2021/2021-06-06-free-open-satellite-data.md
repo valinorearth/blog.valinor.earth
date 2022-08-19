@@ -1,14 +1,9 @@
 ---
-title: Free Open Satellite Data Sources for Fun and Profit
+layout: post
+title:  'Free Open Satellite Data Sources for Fun and Profit'
+image:  '/assets/2021/2021-06-06-satellite-image-eqypt.jpg'
+tags:   [satellite]
 ---
-
-<figure>
-    <img src="/assets/2021/2021-06-06-satellite-image-eqypt.jpg" alt="Geometric shapes lie across the emptiness of the Sahara Desert in southern Egypt.">
-    <figcaption>
-        Geometric shapes lie across the emptiness of the Sahara Desert in southern Egypt. Each point is a center pivot irrigation field a little less than a kilometer across. With no surface water in this region, wells pump underground water to rotating sprinklers from the huge Nubian Sandstone aquifer, which lies underneath the desert.
-        <cite>Photo from <a href="https://www.usgs.gov">USGS</a>.</cite>
-    </figcaption>
-</figure>
 
 Many governments, independent organizations, and agencies have Satellite Data that is Open and Free for anyone to access, study, analyze, and experiment. There is too much data; one needs to focus and pick the ones suitable for specific purposes.
 

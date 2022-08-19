@@ -1,5 +1,8 @@
 ---
-title: India’s Geospatial Guidelines, 2021 Edition
+layout: post
+title:  'India’s Geospatial Guidelines, 2021 Edition'
+image:  '/assets/2021/2021-02-15-india-satellite-map.jpg'
+tags:   [india, geospatial, satellite]
 ---
 
 On Feb 15, 2021, the [Department of Science and Technology](https://dst.gov.in) (DST) released the Guidelines for acquiring and producing Geospatial Data and Geospatial Data Services, including Maps<sup>[1]</sup>.
@@ -18,13 +21,6 @@ Indian citizen, government entities, societies registered under applicable statu
 - Types — the data can be in the form of texts, images, videos, vector, voxel, and/or raster datasets or any other digital kind.
 - Representation — maps or its representation in 2D, 3D, or more dimensional representation, including [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR) and [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR).
 - Technology — there is no limit on the types of technology deployed to collect geospatial data. Current technologies such as Drones, UAVs, LIDAR, Radar, including [Synthetic-Aperture Radar](https://en.wikipedia.org/wiki/Synthetic-aperture_radar) (SAR) devices either stationary, vehicle or satellite mounted, Satellites, or computer-generated or inferred by [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI).
-
-<figure>
-    <img src="/assets/2021/2021-02-15-india-satellite-map.jpg" alt="Satellite Image of India">
-    <figcaption>
-        Satellite Image of India.
-    </figcaption>
-</figure>
 
 ## The Guidelines
 

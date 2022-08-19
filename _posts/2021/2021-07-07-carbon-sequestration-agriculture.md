@@ -1,10 +1,11 @@
 ---
-title: Carbon Sequestration - Agriculture
+layout: post
+title:  'Carbon Sequestration - Agriculture'
+image:  '/assets/2021/2021-07-07-forest-aerial-view-gallivare-sweden.jpg'
+tags:   [carbon, cdr, biosequestration, peatland, forestry, wetlands, farming]
 ---
 
 > Carbon sequestration is the long-term removal, capture, or sequestration of carbon dioxide from the atmosphere to slow or reverse atmospheric carbon dioxide pollution and curb climate change.
-
-![Forest)](/assets/2021/2021-07-07-forest-aerial-view-gallivare-sweden.jpg)
 
 Agricultural practices has huge carbon sequestration potentials.
 

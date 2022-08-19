@@ -1,5 +1,8 @@
 ---
-title: Cash help to Farmers during the Pandemic
+layout: post
+title:  'Cash help to Farmers during the Pandemic'
+image:  '/assets/2020/2020-04-01-manipur-loan-freshies-fresh.jpg'
+tags:   [covid-19, pandemic, manipur, karnataka, rangde]
 ---
 
 When we were starting up, we talked with quite a lot of FPOs (Farmer Producer Organizations), AgTech Startups, and local farmer groups across India. We have learned a lot about the problems faced by Indian Farmers, and the hardships they faced. One of the biggest and most prominent being their inability to access credits from both the Public and Private sector lenders.
@@ -7,13 +10,6 @@ When we were starting up, we talked with quite a lot of FPOs (Farmer Producer Or
 We decided to do something quick and started an ad-hoc Microfinance initiative for the un-banked, and un-served Indian Farmers. The idea is a simple pro-farmer micro-finance initiative, “Give loans to farmers at favorable interest rates.”
 
 The COVID-19 Pandemic made it super hard for us to meet with farmers regularly. Nonetheless, we have taken this as an opportunity to push our agenda much ahead of schedule.
-
-<figure>
-    <img src="/assets/2020/2020-04-01-manipur-loan-freshies-fresh.jpg" alt="Cash handed over to a farmer in Manipur.">
-    <figcaption>
-        Cash handed over to a farmer in Manipur (Apr 1, 2020).
-    </figcaption>
-</figure>
 
 On Apr 1, 2020, we started our first microfinance pilot loans by disbursing cash to the farmers affected by the COVID-19 Lockdown in Manipur. We were able to speed up the loan disbursement by partnering with [FreshiesFresh](https://freshiesfresh.com/).
 

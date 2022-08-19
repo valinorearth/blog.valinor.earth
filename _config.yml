@@ -1,57 +1,27 @@
-title: Valinor Earth’s Blog
+title: Valinor Earth Blog
+logo: '/assets/valinor-earth-logo-text.png'
+description: 'Information and Readings helping Curb Climate Change.'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: oinam/oinam-jekyll
-
+# Jekyll settings
 markdown: kramdown
-highlighter: rouge
-future: false
-show_drafts: false
-
 permalink: pretty
-permalink: /:title/
-
-feed:
-  posts_limit: 10
-  author: Valinor.Earth
-
-layout:
-  theme: default
-  home_posts_no: 10
-  posts_home: /
-  link_new_tab: false # should external links open in a new tab (true) or in the current tab (false)
-
-styles:
-  font_family: serif
-
 plugins:
-  - jekyll-feed
-  - jekyll-optional-front-matter
   - jekyll-paginate
-  - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-titles-from-headings
-  
-optional_front_matter:
-  remove_originals: true
+  - jekyll/tagging
 
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
+paginate: 9
+paginate_path: "/page/:num"
 
+# Pages Path
 defaults:
   - scope:
-      path: '_posts'
-      type: 'posts'
+      path: '_pages'
     values:
-      layout: 'post'
-      permalink: '/:year/:title/'
+      permalink: /:basename:output_ext
 
-exclude:
-  - .jekyll-cache/
-  - .sass-cache/
-  - _drafts
-  - Gemfile
-  - Gemfile.lock
-  - gemfiles/
-  - README.*
+sass:
+  sass_dir: _sass
+  style: compressed

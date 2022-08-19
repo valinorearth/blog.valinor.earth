@@ -1,5 +1,8 @@
 ---
-title: Valinor Earth
+layout: post
+title:  'Valinor Earth'
+image:  '/assets/2020/2020-02-16-japan-manipur-agri-meet-imphal.jpg'
+tags:   ['valinor earth', climate]
 ---
 
 It all started when the research initiative led by Brajeshwar Oinam picked one of the biggest problems faced by farmers -- their inability to access favorable credits at the right time.
@@ -21,10 +24,6 @@ At the early start, we presented our ideas and approach at the Agri-Tech Seminar
 </figure>
 
 We also went all the way to the most remote eastern region of India, Manipur, to foster a Japan-India agriculture initiative. Brajeshwar Oinam and Satoshi Nagata presented and talked with some of the prominent farmer groups, decision-makers.
-
-<figure>
-    <img src="/assets/2020/2020-02-16-japan-manipur-agri-meet-imphal.jpg" alt="Brajeshwar and Satoshi at the Japan-Manipur Agri Meet, Imphal, Feb 16, 2020.">
-</figure>
 
 As the COVID-19 Pandemic hit India, around March, we initiated a partnership with [RangDe](https://www.rangde.in) to be part of their farmers interest-free loan program. In total, we have so far experimented with microfinance loans to over 200 farmers. To help tide the Pandemic uncertainties, we later decided not to ask for any interest on the loans.
 
